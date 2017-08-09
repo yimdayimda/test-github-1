@@ -14,6 +14,7 @@ public class Calculator {
   public static void main(Stringp[] args) {
     int a = 4;
     int b = 2;
+    int c = 5;
     System.out.println(sum(a,b));
   }
   private static int sum(int a, int b) {
