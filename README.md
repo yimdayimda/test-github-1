@@ -6,7 +6,7 @@
 
 ## 2. code detail :  Calculator.java
 
-```c++
+```java
 package com.mycompany.test;
 
 public class Calculator {
