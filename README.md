@@ -6,7 +6,7 @@
 
 ## 2. code detail :  Calculator.java
 
-```java
+```javascript
 package com.mycompany.test;
 
 public class Calculator {
