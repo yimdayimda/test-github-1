@@ -18,4 +18,8 @@ public class Calculator {
   private static int gpu_minus(int a, int b) {
     return b - a;
   }
+
+  private static int multi(int a, int b) {
+    return a * b;
+  }
 }
